@@ -10,7 +10,7 @@ var (
 )
 
 func main() {
-
+	// Create Logger for Main
 	logger = config.GetLogger("main")
 
 	// Initialize Configs
